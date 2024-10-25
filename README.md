@@ -1,3 +1,3 @@
-# Read This
+# FirstProj
 
 This will have some usefull stuff here eventually...
