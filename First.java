@@ -1,14 +1,14 @@
 public class First
 {
-	private String name;
+	private String names;
 
-	public void setName(String name)
+	public void setNames(String name)
 	{
-		this.name = name;
+		this.names = name;
 	}
 
-	public String getName()
+	public String getNames()
 	{
-		return this.name;
+		return this.names;
 	}
 }
