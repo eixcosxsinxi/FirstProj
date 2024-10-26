@@ -11,4 +11,9 @@ public class First
 	{
 		return this.names;
 	}
+
+	public void printName()
+	{
+		System.out.println(this.names);
+	}
 }
