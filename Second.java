@@ -4,7 +4,7 @@ public class Second
 
 	public static void main(String args[])
 	{
-		test.setName("Wesley")
+		test.setName("Wesley");
 		System.out.println(test.getName());
 	}
 }
