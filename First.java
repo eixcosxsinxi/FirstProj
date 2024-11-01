@@ -1,19 +1,24 @@
 public class First
 {
-	private String names;
+	private String name;
 
-	public void setNames(String name)
+	public void setName(String name)
 	{
-		this.names = name;
+		this.name = name;
 	}
 
-	public String getNames()
+	public String getName()
 	{
-		return this.names;
+		return this.name;
 	}
 
 	public void printName()
 	{
-		System.out.println(this.names);
+		System.out.println(this.name);
+	}
+
+	public String toString()
+	{
+		return this.name;
 	}
 }
