@@ -1,9 +1,8 @@
 public class Second
 {
-	First test = new First();
-
 	public static void main(String args[])
 	{
+		First test = new First();
 		test.setNames("Wesley");
 		System.out.println(test.getNames());
 	}
